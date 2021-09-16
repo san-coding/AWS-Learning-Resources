@@ -1,2 +1,2 @@
 # AWS-Learning-Resources
-I think the repo name is self-explanatory
+A repository to store AWS learning resources, feel free to add a PR 
