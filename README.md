@@ -8,3 +8,4 @@ A repository to store AWS learning resources, feel free to add a PR
 - [AWS Resources](https://aws.amazon.com/certification/certification-prep/?ch=tile&tile=prepare)
 - [AWS Personalization Resource](https://docs.aws.amazon.com/personalize/latest/dg/what-is-personalize.html) 
 - [Hand-on-tutorial](https://www.youtube.com/watch?v=Qz9w-DdIJRg)
+- [API Gateway + Lambda Tutorial](https://youtu.be/uFsaiEhr1zs)
